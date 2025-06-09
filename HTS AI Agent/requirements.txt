@@ -1,0 +1,13 @@
+streamlit
+pandas
+transformers
+torch
+sentence-transformers
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+duckdb
+word2number
+tabulate
+numpy
